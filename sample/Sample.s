@@ -3,5 +3,4 @@ let _ = require( 'wimagereadergif' );
 
 /**/
 
-___
-
+console.log( 'console.log( '___ not implemented ___' ); not implemented console.log( '___ not implemented ___' );' );
